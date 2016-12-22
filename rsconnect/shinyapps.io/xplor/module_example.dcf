@@ -1,0 +1,10 @@
+name: module_example
+title: module_example
+account: xplor
+server: shinyapps.io
+appId: 146772
+bundleId: 657739
+url: https://xplor.shinyapps.io/module_example/
+when: 1482356610.26287
+asMultiple: FALSE
+asStatic: FALSE
