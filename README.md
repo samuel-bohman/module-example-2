@@ -1,1 +1,1 @@
-# module_example_2
+# A Simple Modularized Shiny App with renderUI 
