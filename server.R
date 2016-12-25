@@ -15,6 +15,8 @@ function(input, output) {
   
   output$distPlot <- renderPlot({
     
+    req(bins())
+    
     # Old Faithful Geyser data
     x <- faithful[, 2]  
     

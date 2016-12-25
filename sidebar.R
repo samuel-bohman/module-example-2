@@ -23,6 +23,7 @@ sidebar <- function(input, output, session) {
   
   # Render the second drop-down menu
   output$slider <- renderUI({
+    
     ns <- session$ns
     switch(
       input$"drop-down",
